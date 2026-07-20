@@ -2,10 +2,8 @@
 
 # Build an AI Chatbot with Amazon Bedrock
 
-**Project Link:** [View Project](http://nextwork.ai/projects/aws-genai-bedrock-chatbot)
 
-**Author:** Sayed Tahir  
-**Email:** sayedtahir7866@gmail.com
+
 
 ---
 
